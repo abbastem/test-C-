@@ -1,0 +1,3 @@
+C:/Users/PcMax/CLionProjects/Example/cmake-build-debug/CMakeFiles/Example.dir
+C:/Users/PcMax/CLionProjects/Example/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PcMax/CLionProjects/Example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
